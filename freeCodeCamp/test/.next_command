@@ -268,3 +268,9 @@ ls --color=auto
 mv roboto.woff fonts/roboto.woff
 find
 mv lato.ttf fonts/lato.ttf
+mv menlo.otf fonts/menlo.otf
+find
+__vsc_prompt_cmd_original
+find
+clear
+find
