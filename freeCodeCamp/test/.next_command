@@ -474,3 +474,4 @@ rmdir fonts/ -R
 rmdir -r fonts/
 rmdir -r fonts
 rm -r fonts
+ls --color=auto
