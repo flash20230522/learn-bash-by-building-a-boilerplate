@@ -398,3 +398,6 @@ cd ../../..
 cd images/
 ls --color=auto
 mv header.png ..
+ls --color=auto
+find
+ls --color=auto
