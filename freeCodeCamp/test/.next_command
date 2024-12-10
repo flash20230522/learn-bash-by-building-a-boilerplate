@@ -118,3 +118,4 @@ cd website/
 rm gitignore
 ls --color=auto -a
 cd .
+touch background.jpg
