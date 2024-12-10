@@ -125,3 +125,4 @@ ls --color=auto
 roboto.font
 touch roboto.font
 touch lato.font
+touch menlo.font
