@@ -112,3 +112,9 @@ ls --color=auto
 --help
 ls --color=auto --help
 ls --color=auto -a
+cd ..
+cd .
+cd website/
+rm gitignore
+ls --color=auto -a
+cd .
