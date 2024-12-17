@@ -247,3 +247,19 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 [[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
+cd /workspace/project/website/
+ls --color=auto
+cd images/
+ls --color=auto
+cd ..
+rm background.jpg
+rm footer.jpeg
+rm header.png
+ls --color=auto
+mv roboto.font roboto.font2
+ls --color=auto
+__vsc_prompt_cmd_original
+rm roboto.font2
+rm lato.font
+rm menlo.font
+ls --color=auto
