@@ -193,3 +193,6 @@ cp header.png images/header.png
 cp footer images/footer.jpeg
 cp footer.jpeg images/footer.jpeg
 cd images
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
