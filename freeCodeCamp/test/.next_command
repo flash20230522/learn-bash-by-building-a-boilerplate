@@ -264,3 +264,4 @@ rm lato.font
 rm menlo.font
 ls --color=auto
 mkdir fonts
+ls --color=auto
