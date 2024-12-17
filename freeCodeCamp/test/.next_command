@@ -188,3 +188,5 @@ cd ..
 cd ..
 cd /workspace/project/website/
 ls --color=auto
+ls --color=auto
+cp header.png images/header.png
