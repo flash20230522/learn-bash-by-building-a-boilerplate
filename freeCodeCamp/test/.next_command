@@ -190,3 +190,5 @@ cd /workspace/project/website/
 ls --color=auto
 ls --color=auto
 cp header.png images/header.png
+cp footer images/footer.jpeg
+cp footer.jpeg images/footer.jpeg
