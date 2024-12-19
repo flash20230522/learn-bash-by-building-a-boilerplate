@@ -330,3 +330,4 @@ find -help
 find --help
 find -name client/src/index.html
 find -name index.html
+find -name styles.css
