@@ -401,3 +401,4 @@ mv header.png ..
 ls --color=auto
 find
 ls --color=auto
+cd ..
