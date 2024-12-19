@@ -402,3 +402,4 @@ ls --color=auto
 find
 ls --color=auto
 cd ..
+ls --color=auto
