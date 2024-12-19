@@ -497,3 +497,6 @@ copy --help
 copy
 help
 cp --help
+cp website-boilerplate/ toms-website
+cp website-boilerplate toms-website
+cp -r website-boilerplate/ toms-website
