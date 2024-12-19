@@ -431,3 +431,4 @@ ls --color=auto
 rmdir images/
 lds
 ls --color=auto
+mkdir client/assets/icons
