@@ -493,3 +493,7 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 ls --color=auto website-boilerplate/
+copy --help
+copy
+help
+cp --help
