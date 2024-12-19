@@ -328,3 +328,5 @@ find
 find client
 find -help
 find --help
+find -name client/src/index.html
+find -name index.html
