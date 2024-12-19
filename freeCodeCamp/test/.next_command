@@ -461,3 +461,5 @@ rmdir client/assets/fonts/loat-bold.ttf
 touch client/assets/fonts/loat-bold.ttf
 find client/assets/fonts/
 touch client/assets/fonts/lato-bold.ttf
+rm client/assets/fonts/loat-bold.ttf
+touch client/assets/fonts/lato-light.ttf
