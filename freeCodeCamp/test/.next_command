@@ -326,3 +326,5 @@ find
 find
 find
 find client
+find -help
+find --help
