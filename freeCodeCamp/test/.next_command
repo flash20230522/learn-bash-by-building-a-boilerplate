@@ -454,3 +454,4 @@ rm client/assets/icons/fonts
 rmdir client/assets/icons/fonts
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
