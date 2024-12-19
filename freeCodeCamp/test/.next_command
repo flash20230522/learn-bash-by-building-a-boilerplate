@@ -443,3 +443,13 @@ find
 find
 clear
 find
+mkdir client/assets/icons/fonts
+mkdir client/assets/icons/fonts
+cd client/assets/icons/fonts
+ls --color=auto
+cd ..
+ls --color=auto
+cd ../../..
+rm client/assets/icons/fonts
+rmdir client/assets/icons/fonts
+mkdir client/assets/fonts
